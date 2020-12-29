@@ -1,5 +1,5 @@
 Hii Hello 
 How are you??
-change for bug2
-updated for bug2
-
+Change for bug2
+Updated for bug2
+C and U are changed to capital letters
